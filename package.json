@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/orfattal/sample-orf-vulns/issues"
   },
-  "homepage": "https://gitlab.com/orfattal/sample-orf-vulns#readme"
+  "homepage": "https://gitlab.com/orfattal/sample-orf-vulns#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
