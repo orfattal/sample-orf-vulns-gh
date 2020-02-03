@@ -16,7 +16,7 @@
     "url": "https://gitlab.com/orfattal/sample-orf-vulns/issues"
   },
   "dependencies": {
-    "bootstrap": "3.3.7"
+    "bootstrap": "3.4.1"
   },
   "homepage": "https://gitlab.com/orfattal/sample-orf-vulns#readme"
 }
